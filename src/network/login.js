@@ -1,4 +1,4 @@
-import { request } from './request'
+import { request } from '@/plugins/axios'
 
 export function getLoginMessage (data) {
   return request({

@@ -1,3 +1,6 @@
+// http://www.ysqorz.top:8888/api/private/v1/
+// http://www.ysqorz.top:8091/vueshop/reset 重置数据用时1min上下
+
 import axios from 'axios'
 
 export function request (config) {
